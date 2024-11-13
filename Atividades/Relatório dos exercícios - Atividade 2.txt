@@ -1,0 +1,18 @@
+Descrição dos Exercícios
+
+
+•Exercício 2: Média Aritmética das Turmas de uma Escola
+- Funções utilizadas: mediaTurma e mediaEscola.
+- Dificuldades: O uso de funções dentro de loops, como a função mediaTurma para cada turma. Foi necessário garantir que o programa pedisse corretamente o número de alunos de cada turma.
+
+•Exercício 3: n-ésimo Termo da Série de Fibonacci
+- Função utilizada: fibonacci.
+- Dificuldades: Implementar a recursão para a sequência de Fibonacci de forma eficiente. A função recursiva funcionou bem, mas pode ser lenta para valores grandes de n.
+
+•Exercício 4: Somatório
+- Função utilizada: somatorio.
+- Dificuldades: Não houve grandes dificuldades na implementação do somatório. O desafio estava em garantir que a fórmula matemática usada estivesse correta para o somatório proposto.
+
+•Exercício 7: Soma de Três Números Inteiros Armazenados em um Vetor
+- Função utilizada: somaVetor.
+- Dificuldades: A maior dificuldade aqui foi organizar o código para que o vetor fosse corretamente lido e que a função somaVetor lidasse com o número correto de elementos. O uso de um loop para somar os elementos do vetor funcionou bem.

@@ -1,0 +1,15 @@
+• Relatório dos exercícios - Atividade 3
+
+
+- Dificuldades Encontradas:
+
+
+1. Compreensão Inicial do Código (Exercícios 1, 2 e 3): Nos três primeiros exercícios, foi solicitado analisar e comentar um código já fornecido. A dificuldade principal foi entender o propósito de cada linha de código e a lógica por trás dela. Foi necessário realizar uma análise minuciosa, linha a linha, e revisar alguns conceitos de C, como ponteiros e estruturas, para garantir que o entendimento estivesse correto.
+
+2. Manipulação de Vetores (Exercícios 6, 7 e 9): A manipulação de vetores foi desafiadora, especialmente ao lidar com laços para calcular soma, multiplicação e encontrar o maior valor. O desafio surgiu ao implementar funções que lidam com o tamanho do vetor dinâmico e garantir que os valores corretos fossem lidos e processados. Uma dificuldade extra foi trabalhar com as posições dos vetores para exibir o maior valor e sua posição.
+
+3. Funções (Exercícios 4, 5, 8, 10 e 11): A criação de funções para encapsular a lógica foi relativamente tranquila. Entretanto, a passagem de parâmetros e o retorno correto dos valores exigiram atenção especial, principalmente ao manipular tipos de dados diferentes, como no exercício 13, que exigia o retorno de um float para exibir a média com duas casas decimais.
+
+4. Laços de Repetição (Exercícios 5, 8 e 12): Os laços de repetição, principalmente os for e while, foram fundamentais para realizar as iterações necessárias. No entanto, foi difícil inicialmente controlar os limites de iteração e as condições de parada em algumas situações, como ao exibir números pares e ímpares, além de lidar com exceções (como múltiplos de 7 no exercício 5). Outro ponto desafiador foi garantir que os números fossem exibidos na ordem inversa no exercício 12.
+
+5. Assinaturas de Funções e Reuso de Código (Exercícios 13 e 14): Nos exercícios que envolvem assinaturas de funções específicas, a dificuldade esteve em respeitar exatamente a forma da assinatura sugerida e garantir que o código fosse funcional. O exercício 14 foi mais desafiador por envolver a combinação de operações em um vetor e passar esses resultados para a função. A expressão final exigiu uma lógica que combinasse soma e multiplicações corretamente.
